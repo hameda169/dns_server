@@ -1,4 +1,5 @@
 ## Dns Server
+NOTHING
 
 ###Some sites over shecan.ir (sanction.list)
 Some websites are not available in Iran. You should put it in `sanction.list` (Please check that shecan supports that website)  
